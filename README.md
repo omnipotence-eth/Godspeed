@@ -1,6 +1,6 @@
 # Tesla Tire Wear Prediction Model with Claude AI
 
-## Full Transparency: This model is a theoretical concept skeleton built to expand and explore what is possible with Telematics & Ai.
+## Full Transparency: This model is a theoretical concept, built to expand and explore what is possible with Telematics & Ai.
 
 ## Project Description
 This project simulates tire wear for various Tesla models and uses machine learning models to predict tire wear. It also incorporates Claude AI for analysis and recommendations on tire longevity.
